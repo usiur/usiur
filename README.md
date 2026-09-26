@@ -1,7 +1,6 @@
 Ola,
 
-Sou Antonio Abreu, desenvolvedor,
-ateu e militante.
+Sou Lima, desenvolvedor
 
 Linguagens:
 - PHP
